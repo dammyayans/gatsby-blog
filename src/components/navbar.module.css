@@ -1,0 +1,33 @@
+.navbar {
+  padding: 1rem 0 3rem;
+}
+
+.title {
+  color: #000;
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+.nav_list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+}
+
+.nav_item {
+  color: #999;
+  font-size: .9rem;
+  margin-right: 1.3rem;
+  text-decoration: none;
+}
+
+.nav_item:hover {
+  color: #666;
+}
+
+.active_nav_item {
+  color: #333;
+}
+/*# sourceMappingURL=navbar.module.css.map */
